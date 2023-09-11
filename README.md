@@ -1,4 +1,4 @@
-# Student_Grade_Analysis_and_prediction
+Student_Grade_Analysis_and_prediction
 In the domain of education, fostering student success is a primary goal.
 However, the traditional approaches to identifying struggling students often fall short.
 Our project addresses this challenge by harsnessing the power of machine learning to predict
